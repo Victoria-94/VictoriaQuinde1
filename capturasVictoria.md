@@ -6,7 +6,7 @@ CAPTURA
 
 SENTENCIA: SELECT COUNT (*) AS registroa FROM client WHERE city LIKE '%Cuenca';
 CAPTURA
-
+!['Numero de productos'](CAPTURAS/cap2.png)
 
 3. Contar el número de productos cuyo precio está dentro de un rango específico 
 
